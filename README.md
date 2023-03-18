@@ -1,4 +1,4 @@
-# scratch-render-wkeith-types
+# scratch-render-with-types
 
 This is a fork of [scratch-render](https://github.com/LLK/scratch-render) to assist with writing typesafe extensions using [PRG's extension framework](https://github.com/mitmedialab/prg-extension-boilerplate). 
 
